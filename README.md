@@ -6,3 +6,6 @@
 
 
 3.Create new file 'tweet-out.txt' and run 'tweeter_sentiment.py' and 'graphing_twitter_sentiment.py'
+
+
+Change twitterStream.filter(track=["happy"]) to get sentiment analysis on topic of your choice
