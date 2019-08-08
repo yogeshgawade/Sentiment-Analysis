@@ -5,4 +5,4 @@
 2.Run training_data.py to save features and classifiers.
 
 
-3.Create new file 'tweet-out.txt' and run 'tweeter_sentiment.py'
+3.Create new file 'tweet-out.txt' and run 'tweeter_sentiment.py' and 'graphing_twitter_sentiment.py'
